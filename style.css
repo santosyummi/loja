@@ -1,9 +1,13 @@
-*{
+*{ /*seletor para resetar as bordas da página*/
     padding: 0px;
     margin: 0px;
 }
 
-:root{
-    ---cor-de-fundo: #61bb61;
+:root{ /*seletor raiz para variáveis*/
+    ---cor-de-fundo: #8cc28c;
     --cor-da-letra: black;
+}
+
+body{
+    background-color: var(---cor-de-fundo);
 }
