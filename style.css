@@ -8,6 +8,7 @@
 :root{ /*seletor raiz para variáveis*/
     ---cor-de-fundo: #8cc28c;
     --cor-da-letra: black;
+    --cor-branco: white;
 }
 
 body{ /*seletor body*/
